@@ -1,4 +1,4 @@
-# Matplotlib-challenge
+# Pharmaceutical Animal Trial Analysis
 This is an assignment that I completed for the George Washington University Data Analytics Bootcamp, focused on analysis and visualization in Python using Jupyter Notebook and displaying my understanding of Pandas & Matplotlib.
 
 
