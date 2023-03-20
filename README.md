@@ -3,7 +3,7 @@ This is an assignment that I completed for the George Washington University Data
 
 
 ## Organization
-Within "Matplotlib-challenge" you will find this "README.md" file which provides an explanation of my analysis. You will also 
+Within this repository you will find this "README.md" file which provides an explanation of my analysis. You will also 
 find the folder, "PyMaceuticals" which contains my Python code in a Jupyter Notebook file, as well as a "Data" folder. The "Data"
 folder contains two documents "Mouse_metadata.csv" and "Study_results.csv" which are used in this analysis.
 
@@ -26,8 +26,9 @@ Create a line plot and a scatter plot.
 
 Calculate correlation and regression.
 
-Submit final analysis.
-
+<img width="903" alt="Screen Shot 2023-03-19 at 9 07 54 PM" src="https://user-images.githubusercontent.com/119632669/226223570-a28df78c-ec27-4b75-b30e-dacfe6021f3d.png">
+<img width="866" alt="Screen Shot 2023-03-19 at 9 09 37 PM" src="https://user-images.githubusercontent.com/119632669/226223589-71945bd6-4f1c-4712-895c-ef996ea32fa3.png">
+<img width="902" alt="Screen Shot 2023-03-19 at 9 10 00 PM" src="https://user-images.githubusercontent.com/119632669/226223605-8d57895d-614b-4493-81ed-326e3a1378aa.png">
 
 ## Insights
 
